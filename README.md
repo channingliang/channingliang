@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=👋%20ALOHA&fontSize=90&animation=fadeIn&fontAlignY=40&desc=My%20name%20is%20Leon.&descAlignY=58&descAlign=68"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=👋%20ALOHA&fontSize=90&animation=fadeIn&fontAlignY=40&desc=I%20am%20Channing Liang.&descAlignY=58&descAlign=68"/>
 
 <!-- tech stack -->
 <img align="center" src="https://skillicons.dev/icons?i=java,js,ts,python,c,spring,nodejs,vue,react,nextjs,tailwindcss,mysql,redis,git,blender&theme=dark" />
